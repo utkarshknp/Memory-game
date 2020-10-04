@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/utkar/project_lab/project_lab.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/utkar/project_lab/project_lab.srcs/sources_1/new/clk1.v,1571862615,verilog,,C:/Users/utkar/project_lab/project_lab.srcs/sources_1/new/clk2.v,,clk1,,,,,,,,
+C:/Users/utkar/project_lab/project_lab.srcs/sources_1/new/clk2.v,1571862615,verilog,,C:/Users/utkar/project_lab/project_lab.srcs/sources_1/new/lfsr.v,,clk2,,,,,,,,
+C:/Users/utkar/project_lab/project_lab.srcs/sources_1/new/lfsr.v,1571895670,verilog,,C:/Users/utkar/project_lab/project_lab.srcs/sources_1/new/test.v,,lfsr,,,,,,,,
+C:/Users/utkar/project_lab/project_lab.srcs/sources_1/new/test.v,1571893025,verilog,,,,test,,,,,,,,
